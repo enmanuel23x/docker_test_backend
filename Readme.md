@@ -1,7 +1,7 @@
 # Getting Started with This Express App
 
 ## Related to frontend
-- Url: [Backend Repo](http://localhost:3000)
+- Url: [Frontend Repo](https://github.com/enmanuel23x/docker_test_frontend)
 
 ## Running the Express App
 - ### Production Mode (Docker)
